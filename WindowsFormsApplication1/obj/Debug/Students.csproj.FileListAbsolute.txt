@@ -1,0 +1,14 @@
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Students.Form1.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Students.Properties.Resources.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Students.csproj.GenerateResource.Cache
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\obj\Debug\Students.Form1.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\obj\Debug\Students.Properties.Resources.resources
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Students Database\WindowsFormsApplication1\obj\Debug\Students.csproj.GenerateResource.Cache
